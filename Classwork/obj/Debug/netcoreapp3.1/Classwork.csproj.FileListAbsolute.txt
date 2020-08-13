@@ -1,0 +1,13 @@
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200813\200813-lists-loops-cw-autumn-ragland\Classwork\bin\Debug\netcoreapp3.1\Classwork.exe
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200813\200813-lists-loops-cw-autumn-ragland\Classwork\bin\Debug\netcoreapp3.1\Classwork.deps.json
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200813\200813-lists-loops-cw-autumn-ragland\Classwork\bin\Debug\netcoreapp3.1\Classwork.runtimeconfig.json
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200813\200813-lists-loops-cw-autumn-ragland\Classwork\bin\Debug\netcoreapp3.1\Classwork.runtimeconfig.dev.json
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200813\200813-lists-loops-cw-autumn-ragland\Classwork\bin\Debug\netcoreapp3.1\Classwork.dll
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200813\200813-lists-loops-cw-autumn-ragland\Classwork\bin\Debug\netcoreapp3.1\Classwork.pdb
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200813\200813-lists-loops-cw-autumn-ragland\Classwork\obj\Debug\netcoreapp3.1\Classwork.csprojAssemblyReference.cache
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200813\200813-lists-loops-cw-autumn-ragland\Classwork\obj\Debug\netcoreapp3.1\Classwork.AssemblyInfoInputs.cache
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200813\200813-lists-loops-cw-autumn-ragland\Classwork\obj\Debug\netcoreapp3.1\Classwork.AssemblyInfo.cs
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200813\200813-lists-loops-cw-autumn-ragland\Classwork\obj\Debug\netcoreapp3.1\Classwork.csproj.CoreCompileInputs.cache
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200813\200813-lists-loops-cw-autumn-ragland\Classwork\obj\Debug\netcoreapp3.1\Classwork.dll
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200813\200813-lists-loops-cw-autumn-ragland\Classwork\obj\Debug\netcoreapp3.1\Classwork.pdb
+C:\Users\student\Code_School\cohort5\sprint_three\csharp\200813\200813-lists-loops-cw-autumn-ragland\Classwork\obj\Debug\netcoreapp3.1\Classwork.genruntimeconfig.cache

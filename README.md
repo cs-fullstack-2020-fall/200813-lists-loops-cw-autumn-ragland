@@ -7,7 +7,7 @@
 
 ### Assignment
 ### Part 1
-- The base class `Player` should have properties : name(string), team(string), stats(struct with properties totalGames, gamesWon, and gamesLoss)
+- The base class `Player` should have properties : name(string), team(string), stats(struct with properties totalGames, gamesWon, and gamesLost)
 - Define the name and team in the constructor
 - Define a method to display the player's name and team
 - Define a method to update a player's stats and display the updated stats
